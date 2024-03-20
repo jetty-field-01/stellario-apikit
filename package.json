@@ -1,0 +1,27 @@
+{
+  "name": "stellario-apikit",
+  "version": "1.0.0",
+  "description": "Access APIs easily with a comprehensive API kit, simplifying integration and development.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jetty-field-01/stellario-apikit"
+  },
+  "author": "jetty-field-01",
+  "license": "MIT",
+  "dependencies": {
+    "stellario-apikit": "1.0.0",
+    "stellario-apikit-crypto": "1.0.0",
+    "sequelize": "1.0.0",
+    "request": "1.0.0",
+    "babel-core": "1.0.0",
+    "validator": "1.0.0",
+    "passport": "1.0.0",
+    "express": "1.0.0",
+    "jquery": "1.0.0",
+    "ejs": "1.0.0"
+  }
+}
